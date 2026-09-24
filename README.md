@@ -50,47 +50,63 @@ O objetivo é compreender como os diferentes componentes do sistema hídrico int
 ---
 
 # Curadoria de Fontes
-
-As seguintes fontes foram selecionadas para o NotebookLM:
-
-## ANA
-
+ 
+Durante a pesquisa foi utilizado o recurso Deep Research do NotebookLM para identificar fontes oficiais relacionadas à segurança hídrica, saneamento básico, monitoramento meteorológico e prevenção de desastres naturais.
+ 
+## Fontes Principais
+ 
+### Agência Nacional de Águas e Saneamento Básico (ANA)
+ 
 https://www.gov.br/ana
-
-Agência Nacional de Águas e Saneamento Básico.
-
+ 
+Responsável pela regulação e gestão dos recursos hídricos em âmbito nacional, além da produção de estudos, capacitações e normas relacionadas ao saneamento.
+ 
 ---
-
-## SABESP
-
-https://www.sabesp.com.br
-
-Responsável pelos sistemas produtores da Região Metropolitana de São Paulo.
-
----
-
-## DAEE
-
-https://cth.daee.sp.gov.br
-
-Painéis de monitoramento hidrológico.
-
----
-
-## INMET
-
-https://www.inmet.gov.br
-
-Dados meteorológicos e climatológicos.
-
----
-
-## CEMADEN
-
+ 
+### Centro Nacional de Monitoramento e Alertas de Desastres Naturais (CEMADEN)
+ 
 https://www.gov.br/cemaden
-
-Monitoramento de riscos naturais e eventos extremos.
-
+ 
+Monitoramento de eventos extremos, riscos geo-hidrológicos, secas, inundações e emissão de alertas preventivos.
+ 
+---
+ 
+### Sistema Integrado de Bacias Hidrográficas (SIBH)
+ 
+https://www.sibh.sp.gov.br
+ 
+Acompanhamento de precipitação, níveis de rios e informações hidrológicas em tempo real para o estado de São Paulo.
+ 
+---
+ 
+### Agência Nacional de Águas - Monitoramento Hidrológico
+ 
+https://www.snirh.gov.br
+ 
+Sistemas de monitoramento e gestão de recursos hídricos.
+ 
+---
+ 
+### Instituto Nacional de Meteorologia (INMET)
+ 
+https://www.inmet.gov.br
+ 
+Dados meteorológicos, climatológicos e históricos de estações monitoradas em todo o Brasil.
+ 
+---
+ 
+## Justificativa da Escolha
+ 
+As fontes foram selecionadas por apresentarem dados oficiais e atualizados relacionados a:
+ 
+- Recursos hídricos;
+- Segurança hídrica;
+- Monitoramento de chuvas;
+- Gestão de bacias hidrográficas;
+- Prevenção de desastres naturais;
+- Mudanças climáticas.
+ 
+Essas informações serviram como base para a construção do conceito "Linguagem da Água" desenvolvido durante este estudo.
 ---
 
 # Engenharia de Prompts
